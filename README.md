@@ -1,4 +1,4 @@
-# Heartbeat_Classification
+# Heartbeat Sound Classification using CNN, kNN and SVM
 The course project of Vladislav Gadalov on the implementation of the convolutional neural network for the classification of heartbeat.
 ## How to use:
 1. Open Jupyter Notebook file.
